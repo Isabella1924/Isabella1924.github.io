@@ -2,6 +2,20 @@ body {
      background: #81d6fa;
      font-family:Arial, Helvetica, sans-serif;
 }
+
+     .assignment{
+          display: flex;
+          padding: 10 px;
+          margin: 10px;
+          background: lightslategray
+     }
+
+     .assignment img{
+          width: 200px;
+          padding: 10px;
+     }
+
+
      h1{
         color:#FFFFFF;
         text-align:center;
